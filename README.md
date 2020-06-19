@@ -3,9 +3,6 @@ Crawls your Facebook friends list looking for phone numbers to launch phishing a
 
 #### Disclaimer: For educational purposes only
 
-[![Build Status](https://travis-ci.org/aedenmurray/FBSweep.svg?branch=master)](https://travis-ci.org/aedenmurray/FBSweep)
-![AUR](https://img.shields.io/aur/license/yaourt.svg)
-
 ## Requirements:
 #### Arch Linux:
 ```
